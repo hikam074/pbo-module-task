@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /PRAKTIKUM04/PRAKTIKUM04.csproj
+/PRAKTIKUM04/Program.cs
