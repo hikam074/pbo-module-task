@@ -78,7 +78,6 @@ namespace Praktikum
             reptil.Suara();
 
             Console.WriteLine(reptil.Suara());
-            Console.WriteLine(ular1);
         }
     }
 }
